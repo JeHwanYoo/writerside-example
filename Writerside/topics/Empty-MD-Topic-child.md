@@ -1,4 +1,4 @@
-# 항해플러스 사랑해요 ♥️
+# Mermaid Test
 
 ```mermaid
 sequenceDiagram
